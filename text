@@ -1,0 +1,24 @@
+Homebrew
+Cask
+“To install, drag this icon…” no more!
+Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
+It only takes 1 line in your shell to reach 3653 Casks maintained by 4596 contributors.
+brew cask install google-chrome
+Install with ease
+Your software is just one command away from being ready and raring to go.
+Forget all about babysitting the install process step by step, from website to cleanup.
+ls /usr/local/Caskroom
+google-chrome
+Unix-savvy, macOS-friendly
+Homebrew-Cask does one thing, does it well, and plays nice with others. Apps are moved to your /Applications folder in the same way as you would manually.
+Or wherever you like: Homebrew-Cask is fully configurable.
+brew cask create my-cask
+Community-driven
+Creating new Casks is only a matter of minutes; updating them, of seconds!
+And if you feel like improving Homebrew-Cask itself, dive into the codebase and you'll find yourself right at home: Homebrew-Cask is all git and Ruby, just like Homebrew.
+Get Homebrew-Cask
+brew tap caskroom/cask
+DOCS
+Octocat purrs and points its tentacles to the source
+SEARCH
+Created by @phinze. Maintained by hundreds of contributors. Website courtesy of @ndr-qef.
